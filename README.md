@@ -41,7 +41,7 @@ bundle install
 * Deployment instructions
 ## Development
 
-* ...
+
 start of by creating the database and running migrations using
 `bin/rails db:setup`
 

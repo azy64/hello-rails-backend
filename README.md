@@ -7,7 +7,7 @@ application up and running.
 > The Backend of a React & Ruby on Rails setup.
 ---
 Things you may want to cover:
-## React Frontend [Link](https://github.com/azy64/hello-rails-react.git)
+## React Frontend [Link](https://github.com/azy64/hello-react-front-end.git)
 
 * Ruby version
 ## Built With
